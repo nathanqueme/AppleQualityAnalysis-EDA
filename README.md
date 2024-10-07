@@ -1,4 +1,4 @@
-# UTS Assessment Task 2: Data Exploration and Preparation
+# UTS Assessment 2 - Course 31250 (Introduction to Data Analytics)
 
 **Grade:** HD (Full Marks)  
 
